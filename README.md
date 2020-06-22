@@ -1,16 +1,13 @@
 # darkfb
 Script yang di gunakan untuk crack akun Facebook secara massal.
 
-pkg instal python2
-pip2 instal mekanik
-pip2 install requests
-pkg instal git -y
+$pkg instal python2
+$pip2 instal mekanik
+$pip2 install requests
+$pkg instal git -y
+$git clone https://github.com/SSdark-404/fbthedark
+[!!]Untuk pip nya nanti akan terinstall otomatis setelah menjalankan script[!!]
 
-git clone https://github.com/Rahmat-cyber186/darkfb
-
-Untuk pip nya nanti akan terinstall otomatis setelah menjalankan script.
-
-
-Jika mengalami eror silahkan hubungi saya melalui WhatsApp
-
-Nomor WhatsApp saya:+6285754629509
+bila ada masalah hubungi kami lewat wa +6282370828069
+gunakan dengan bijak... dosa tanggung sendiri
+Mr.X Junior && ripanSS
